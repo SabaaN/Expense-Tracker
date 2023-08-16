@@ -22,6 +22,7 @@ Frontend:
 React: A popular JavaScript library for building user interfaces.
 
 Chart.js: A versatile library for creating interactive and customizable charts and graphs.
+
 Backend:
 
 Node.js: A runtime environment for executing JavaScript on the server side.
