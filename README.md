@@ -21,7 +21,7 @@ Frontend:
 
 React: A popular JavaScript library for building user interfaces.
 
-Chart.js: A versatile library for creating interactive and customizable charts and graphs.
+Chart.js: Library for creating interactive and customizable charts and graphs.
 
 Backend:
 
