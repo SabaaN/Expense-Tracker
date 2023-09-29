@@ -13,8 +13,6 @@ Interactive Dashboards: Gain insights into your spending habits and financial tr
 Category Management: Organize your transactions by assigning them to specific categories for better expense tracking.
 
 
-Responsive Design: Access the app seamlessly across various devices, ensuring a consistent user experience on both desktop and mobile platforms.
-
 ## Technologies Used
 
 Frontend:
