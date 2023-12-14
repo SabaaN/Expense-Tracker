@@ -23,7 +23,7 @@ function Dashboard() {
                         <Chart />
                         <div className="amount-con">
                             <div className="income">
-                                <h2>Total Income</h2>
+                                <h2>Total  Income</h2>
                                 <p>
                                     {dollar} {totalIncome()}
                                 </p>
