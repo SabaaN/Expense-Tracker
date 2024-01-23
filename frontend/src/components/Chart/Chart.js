@@ -65,7 +65,7 @@ function Chart() {
 
     return (
         <ChartStyled >
-            <Line data={data}/>
+            <Linee data={data}/>
         </ChartStyled>
     )
 }
