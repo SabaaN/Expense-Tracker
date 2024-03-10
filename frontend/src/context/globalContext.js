@@ -90,7 +90,7 @@ export const GlobalProvider = ({children}) => {
 
     return (
         <GlobalContext.Provider value={{
-            addI ncome,
+            addIncome,
             getIncomes,
             incomes,
             deleteIncome,
