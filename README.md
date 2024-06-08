@@ -10,7 +10,7 @@ Expense and Income Tracking: Easily add and categorize your expenses and income 
 Interactive Dashboards: Gain insights into your spending habits and financial trends through interactive charts and graphs powered by Chart.js.
 
 
-Category Management: Organize your transactions by assigning them to specific categories for better expense tracking.
+Category Management: Organize your transactions by assigning them to specific categories for better expense tracking
 
 
 ## Technologies Used
