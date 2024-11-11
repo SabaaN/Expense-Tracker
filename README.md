@@ -1,4 +1,4 @@
-# Expense Tracking Website
+# Expense Tracking Web
 
 The Expense Tracker App is a comprehensive financial management tool designed to help users effortlessly track their expenses and income.Built using the MERN (MongoDB, Express.js, React, Node.js) stack, this full-stack web application offers an intuitive and visually pleasing experience for managing personal finances. The app leverages Chart.js for creating informative and engaging graphical representations of financial data
 
