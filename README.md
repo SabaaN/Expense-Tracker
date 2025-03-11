@@ -1,4 +1,4 @@
-# Expense Tracking Websit
+# Expense Tracking Website
 
 
 
